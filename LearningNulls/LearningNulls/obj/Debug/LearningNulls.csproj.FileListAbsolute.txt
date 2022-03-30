@@ -1,0 +1,8 @@
+C:\Users\thesi\source\repos\LearningNulls\LearningNulls\bin\Debug\LearningNulls.exe.config
+C:\Users\thesi\source\repos\LearningNulls\LearningNulls\bin\Debug\LearningNulls.exe
+C:\Users\thesi\source\repos\LearningNulls\LearningNulls\bin\Debug\LearningNulls.pdb
+C:\Users\thesi\source\repos\LearningNulls\LearningNulls\obj\Debug\LearningNulls.csproj.AssemblyReference.cache
+C:\Users\thesi\source\repos\LearningNulls\LearningNulls\obj\Debug\LearningNulls.csproj.SuggestedBindingRedirects.cache
+C:\Users\thesi\source\repos\LearningNulls\LearningNulls\obj\Debug\LearningNulls.csproj.CoreCompileInputs.cache
+C:\Users\thesi\source\repos\LearningNulls\LearningNulls\obj\Debug\LearningNulls.exe
+C:\Users\thesi\source\repos\LearningNulls\LearningNulls\obj\Debug\LearningNulls.pdb

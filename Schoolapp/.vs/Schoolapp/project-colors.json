@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "158a1795-49bb-4b31-9376-2aae3a95b137": {
+      "ProjectGuid": "158a1795-49bb-4b31-9376-2aae3a95b137",
+      "DisplayName": "SchoolLibrary1",
+      "ColorIndex": 0
+    },
+    "e51bab49-7d1e-4f02-b518-76c121a45d5f": {
+      "ProjectGuid": "e51bab49-7d1e-4f02-b518-76c121a45d5f",
+      "DisplayName": "School",
+      "ColorIndex": 1
+    },
+    "6ba4a32b-0a8a-45ad-8f3c-7b992ccc89b0": {
+      "ProjectGuid": "6ba4a32b-0a8a-45ad-8f3c-7b992ccc89b0",
+      "DisplayName": "schollform app",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

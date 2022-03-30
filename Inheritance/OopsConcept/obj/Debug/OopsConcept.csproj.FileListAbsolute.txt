@@ -1,0 +1,8 @@
+C:\Users\thesi\source\repos\Inheritance\OopsConcept\bin\Debug\OopsConcept.exe.config
+C:\Users\thesi\source\repos\Inheritance\OopsConcept\bin\Debug\OopsConcept.exe
+C:\Users\thesi\source\repos\Inheritance\OopsConcept\bin\Debug\OopsConcept.pdb
+C:\Users\thesi\source\repos\Inheritance\OopsConcept\obj\Debug\OopsConcept.csproj.AssemblyReference.cache
+C:\Users\thesi\source\repos\Inheritance\OopsConcept\obj\Debug\OopsConcept.csproj.SuggestedBindingRedirects.cache
+C:\Users\thesi\source\repos\Inheritance\OopsConcept\obj\Debug\OopsConcept.csproj.CoreCompileInputs.cache
+C:\Users\thesi\source\repos\Inheritance\OopsConcept\obj\Debug\OopsConcept.exe
+C:\Users\thesi\source\repos\Inheritance\OopsConcept\obj\Debug\OopsConcept.pdb

@@ -1,0 +1,7 @@
+C:\Users\thesi\source\repos\LearningThreading\LearningThreading\bin\Debug\LearningThreading.exe.config
+C:\Users\thesi\source\repos\LearningThreading\LearningThreading\bin\Debug\LearningThreading.exe
+C:\Users\thesi\source\repos\LearningThreading\LearningThreading\bin\Debug\LearningThreading.pdb
+C:\Users\thesi\source\repos\LearningThreading\LearningThreading\obj\Debug\LearningThreading.csproj.SuggestedBindingRedirects.cache
+C:\Users\thesi\source\repos\LearningThreading\LearningThreading\obj\Debug\LearningThreading.csproj.CoreCompileInputs.cache
+C:\Users\thesi\source\repos\LearningThreading\LearningThreading\obj\Debug\LearningThreading.exe
+C:\Users\thesi\source\repos\LearningThreading\LearningThreading\obj\Debug\LearningThreading.pdb

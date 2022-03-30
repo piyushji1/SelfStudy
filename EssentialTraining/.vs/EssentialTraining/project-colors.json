@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3ae5f8f9-40ef-40e1-b90f-21d30dc39be0": {
+      "ProjectGuid": "3ae5f8f9-40ef-40e1-b90f-21d30dc39be0",
+      "DisplayName": "EssentialTraining",
+      "ColorIndex": 0
+    },
+    "124e186e-8a33-415f-ad45-17cc70efaccc": {
+      "ProjectGuid": "124e186e-8a33-415f-ad45-17cc70efaccc",
+      "DisplayName": "EssentialTraingtest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

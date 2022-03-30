@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0d37b69e-f6d9-4d37-b608-cc6a0b39a3be": {
+      "ProjectGuid": "0d37b69e-f6d9-4d37-b608-cc6a0b39a3be",
+      "DisplayName": "Geometry",
+      "ColorIndex": 0
+    },
+    "037a389e-1501-462c-bf89-ef62b86b6ef2": {
+      "ProjectGuid": "037a389e-1501-462c-bf89-ef62b86b6ef2",
+      "DisplayName": "Test_Geometry",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,8 @@
+C:\Users\thesi\source\repos\LearningAsyncAwayStart\LearningAsyncAwayStart\bin\Debug\LearningAsyncAwayStart.exe.config
+C:\Users\thesi\source\repos\LearningAsyncAwayStart\LearningAsyncAwayStart\bin\Debug\LearningAsyncAwayStart.exe
+C:\Users\thesi\source\repos\LearningAsyncAwayStart\LearningAsyncAwayStart\bin\Debug\LearningAsyncAwayStart.pdb
+C:\Users\thesi\source\repos\LearningAsyncAwayStart\LearningAsyncAwayStart\obj\Debug\LearningAsyncAwayStart.csproj.AssemblyReference.cache
+C:\Users\thesi\source\repos\LearningAsyncAwayStart\LearningAsyncAwayStart\obj\Debug\LearningAsyncAwayStart.csproj.SuggestedBindingRedirects.cache
+C:\Users\thesi\source\repos\LearningAsyncAwayStart\LearningAsyncAwayStart\obj\Debug\LearningAsyncAwayStart.csproj.CoreCompileInputs.cache
+C:\Users\thesi\source\repos\LearningAsyncAwayStart\LearningAsyncAwayStart\obj\Debug\LearningAsyncAwayStart.exe
+C:\Users\thesi\source\repos\LearningAsyncAwayStart\LearningAsyncAwayStart\obj\Debug\LearningAsyncAwayStart.pdb

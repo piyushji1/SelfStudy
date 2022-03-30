@@ -1,0 +1,7 @@
+C:\Users\thesi\source\repos\LearningAnonymous\LearningAnonymous\bin\Debug\LearningAnonymous.exe.config
+C:\Users\thesi\source\repos\LearningAnonymous\LearningAnonymous\bin\Debug\LearningAnonymous.exe
+C:\Users\thesi\source\repos\LearningAnonymous\LearningAnonymous\bin\Debug\LearningAnonymous.pdb
+C:\Users\thesi\source\repos\LearningAnonymous\LearningAnonymous\obj\Debug\LearningAnonymous.csproj.SuggestedBindingRedirects.cache
+C:\Users\thesi\source\repos\LearningAnonymous\LearningAnonymous\obj\Debug\LearningAnonymous.csproj.CoreCompileInputs.cache
+C:\Users\thesi\source\repos\LearningAnonymous\LearningAnonymous\obj\Debug\LearningAnonymous.exe
+C:\Users\thesi\source\repos\LearningAnonymous\LearningAnonymous\obj\Debug\LearningAnonymous.pdb

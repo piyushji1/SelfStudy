@@ -1,0 +1,15 @@
+C:\Users\thesi\source\repos\Piyush inheritance\Piyush\bin\Debug\net6.0\Piyush.exe
+C:\Users\thesi\source\repos\Piyush inheritance\Piyush\bin\Debug\net6.0\Piyush.deps.json
+C:\Users\thesi\source\repos\Piyush inheritance\Piyush\bin\Debug\net6.0\Piyush.runtimeconfig.json
+C:\Users\thesi\source\repos\Piyush inheritance\Piyush\bin\Debug\net6.0\Piyush.dll
+C:\Users\thesi\source\repos\Piyush inheritance\Piyush\bin\Debug\net6.0\ref\Piyush.dll
+C:\Users\thesi\source\repos\Piyush inheritance\Piyush\bin\Debug\net6.0\Piyush.pdb
+C:\Users\thesi\source\repos\Piyush inheritance\Piyush\obj\Debug\net6.0\Piyush.csproj.AssemblyReference.cache
+C:\Users\thesi\source\repos\Piyush inheritance\Piyush\obj\Debug\net6.0\Piyush.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesi\source\repos\Piyush inheritance\Piyush\obj\Debug\net6.0\Piyush.AssemblyInfoInputs.cache
+C:\Users\thesi\source\repos\Piyush inheritance\Piyush\obj\Debug\net6.0\Piyush.AssemblyInfo.cs
+C:\Users\thesi\source\repos\Piyush inheritance\Piyush\obj\Debug\net6.0\Piyush.csproj.CoreCompileInputs.cache
+C:\Users\thesi\source\repos\Piyush inheritance\Piyush\obj\Debug\net6.0\Piyush.dll
+C:\Users\thesi\source\repos\Piyush inheritance\Piyush\obj\Debug\net6.0\ref\Piyush.dll
+C:\Users\thesi\source\repos\Piyush inheritance\Piyush\obj\Debug\net6.0\Piyush.pdb
+C:\Users\thesi\source\repos\Piyush inheritance\Piyush\obj\Debug\net6.0\Piyush.genruntimeconfig.cache

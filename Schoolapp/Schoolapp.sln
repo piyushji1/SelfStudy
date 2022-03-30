@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolLibrary1", "SchoolLibrary1\SchoolLibrary1.csproj", "{158A1795-49BB-4B31-9376-2AAE3A95B137}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schollform app", "schollform app\schollform app.csproj", "{6BA4A32B-0A8A-45AD-8F3C-7B992CCC89B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{158A1795-49BB-4B31-9376-2AAE3A95B137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158A1795-49BB-4B31-9376-2AAE3A95B137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158A1795-49BB-4B31-9376-2AAE3A95B137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158A1795-49BB-4B31-9376-2AAE3A95B137}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BA4A32B-0A8A-45AD-8F3C-7B992CCC89B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA4A32B-0A8A-45AD-8F3C-7B992CCC89B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA4A32B-0A8A-45AD-8F3C-7B992CCC89B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA4A32B-0A8A-45AD-8F3C-7B992CCC89B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40B8FC05-DF44-4B19-B74A-9126DE3A17B7}
+	EndGlobalSection
+EndGlobal

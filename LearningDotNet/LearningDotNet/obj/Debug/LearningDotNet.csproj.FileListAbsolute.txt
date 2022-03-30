@@ -1,0 +1,8 @@
+C:\Users\thesi\source\repos\LearningDotNet\LearningDotNet\bin\Debug\LearningDotNet.exe.config
+C:\Users\thesi\source\repos\LearningDotNet\LearningDotNet\bin\Debug\LearningDotNet.exe
+C:\Users\thesi\source\repos\LearningDotNet\LearningDotNet\bin\Debug\LearningDotNet.pdb
+C:\Users\thesi\source\repos\LearningDotNet\LearningDotNet\obj\Debug\LearningDotNet.csproj.AssemblyReference.cache
+C:\Users\thesi\source\repos\LearningDotNet\LearningDotNet\obj\Debug\LearningDotNet.csproj.SuggestedBindingRedirects.cache
+C:\Users\thesi\source\repos\LearningDotNet\LearningDotNet\obj\Debug\LearningDotNet.csproj.CoreCompileInputs.cache
+C:\Users\thesi\source\repos\LearningDotNet\LearningDotNet\obj\Debug\LearningDotNet.exe
+C:\Users\thesi\source\repos\LearningDotNet\LearningDotNet\obj\Debug\LearningDotNet.pdb

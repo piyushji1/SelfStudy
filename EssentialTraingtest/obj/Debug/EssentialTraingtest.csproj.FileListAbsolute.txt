@@ -1,0 +1,17 @@
+C:\Users\thesi\source\repos\EssentialTraingtest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\thesi\source\repos\EssentialTraingtest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\thesi\source\repos\EssentialTraingtest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\thesi\source\repos\EssentialTraingtest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\thesi\source\repos\EssentialTraingtest\bin\Debug\EssentialTraingtest.dll
+C:\Users\thesi\source\repos\EssentialTraingtest\bin\Debug\EssentialTraingtest.pdb
+C:\Users\thesi\source\repos\EssentialTraingtest\bin\Debug\EssentialTraining.dll
+C:\Users\thesi\source\repos\EssentialTraingtest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\thesi\source\repos\EssentialTraingtest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\thesi\source\repos\EssentialTraingtest\bin\Debug\EssentialTraining.pdb
+C:\Users\thesi\source\repos\EssentialTraingtest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\thesi\source\repos\EssentialTraingtest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\thesi\source\repos\EssentialTraingtest\obj\Debug\EssentialTraingtest.csproj.AssemblyReference.cache
+C:\Users\thesi\source\repos\EssentialTraingtest\obj\Debug\EssentialTraingtest.csproj.CoreCompileInputs.cache
+C:\Users\thesi\source\repos\EssentialTraingtest\obj\Debug\EssentialTraingtest.csproj.CopyComplete
+C:\Users\thesi\source\repos\EssentialTraingtest\obj\Debug\EssentialTraingtest.dll
+C:\Users\thesi\source\repos\EssentialTraingtest\obj\Debug\EssentialTraingtest.pdb

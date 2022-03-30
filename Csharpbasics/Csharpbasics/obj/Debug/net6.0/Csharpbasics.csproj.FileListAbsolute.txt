@@ -1,0 +1,15 @@
+C:\Users\thesi\source\repos\Csharpbasics\Csharpbasics\obj\Debug\net6.0\Csharpbasics.csproj.AssemblyReference.cache
+C:\Users\thesi\source\repos\Csharpbasics\Csharpbasics\obj\Debug\net6.0\Csharpbasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesi\source\repos\Csharpbasics\Csharpbasics\obj\Debug\net6.0\Csharpbasics.AssemblyInfoInputs.cache
+C:\Users\thesi\source\repos\Csharpbasics\Csharpbasics\obj\Debug\net6.0\Csharpbasics.AssemblyInfo.cs
+C:\Users\thesi\source\repos\Csharpbasics\Csharpbasics\obj\Debug\net6.0\Csharpbasics.csproj.CoreCompileInputs.cache
+C:\Users\thesi\source\repos\Csharpbasics\Csharpbasics\bin\Debug\net6.0\Csharpbasics.exe
+C:\Users\thesi\source\repos\Csharpbasics\Csharpbasics\bin\Debug\net6.0\Csharpbasics.deps.json
+C:\Users\thesi\source\repos\Csharpbasics\Csharpbasics\bin\Debug\net6.0\Csharpbasics.runtimeconfig.json
+C:\Users\thesi\source\repos\Csharpbasics\Csharpbasics\bin\Debug\net6.0\Csharpbasics.dll
+C:\Users\thesi\source\repos\Csharpbasics\Csharpbasics\bin\Debug\net6.0\ref\Csharpbasics.dll
+C:\Users\thesi\source\repos\Csharpbasics\Csharpbasics\bin\Debug\net6.0\Csharpbasics.pdb
+C:\Users\thesi\source\repos\Csharpbasics\Csharpbasics\obj\Debug\net6.0\Csharpbasics.dll
+C:\Users\thesi\source\repos\Csharpbasics\Csharpbasics\obj\Debug\net6.0\ref\Csharpbasics.dll
+C:\Users\thesi\source\repos\Csharpbasics\Csharpbasics\obj\Debug\net6.0\Csharpbasics.pdb
+C:\Users\thesi\source\repos\Csharpbasics\Csharpbasics\obj\Debug\net6.0\Csharpbasics.genruntimeconfig.cache

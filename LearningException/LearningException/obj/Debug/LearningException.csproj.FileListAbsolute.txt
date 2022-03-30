@@ -1,0 +1,8 @@
+C:\Users\thesi\source\repos\LearningException\LearningException\bin\Debug\LearningException.exe.config
+C:\Users\thesi\source\repos\LearningException\LearningException\bin\Debug\LearningException.exe
+C:\Users\thesi\source\repos\LearningException\LearningException\bin\Debug\LearningException.pdb
+C:\Users\thesi\source\repos\LearningException\LearningException\obj\Debug\LearningException.csproj.SuggestedBindingRedirects.cache
+C:\Users\thesi\source\repos\LearningException\LearningException\obj\Debug\LearningException.csproj.CoreCompileInputs.cache
+C:\Users\thesi\source\repos\LearningException\LearningException\obj\Debug\LearningException.exe
+C:\Users\thesi\source\repos\LearningException\LearningException\obj\Debug\LearningException.pdb
+C:\Users\thesi\source\repos\LearningException\LearningException\obj\Debug\LearningException.csproj.AssemblyReference.cache

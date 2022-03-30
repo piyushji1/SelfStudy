@@ -1,0 +1,8 @@
+C:\Users\thesi\source\repos\LearningProperties\LearningProperties\bin\Debug\LearningProperties.exe.config
+C:\Users\thesi\source\repos\LearningProperties\LearningProperties\bin\Debug\LearningProperties.exe
+C:\Users\thesi\source\repos\LearningProperties\LearningProperties\bin\Debug\LearningProperties.pdb
+C:\Users\thesi\source\repos\LearningProperties\LearningProperties\obj\Debug\LearningProperties.csproj.AssemblyReference.cache
+C:\Users\thesi\source\repos\LearningProperties\LearningProperties\obj\Debug\LearningProperties.csproj.SuggestedBindingRedirects.cache
+C:\Users\thesi\source\repos\LearningProperties\LearningProperties\obj\Debug\LearningProperties.csproj.CoreCompileInputs.cache
+C:\Users\thesi\source\repos\LearningProperties\LearningProperties\obj\Debug\LearningProperties.exe
+C:\Users\thesi\source\repos\LearningProperties\LearningProperties\obj\Debug\LearningProperties.pdb
